@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Lista i file nella cartella corrente con le righe 2-4 per ciascuno
 
 # Directory da ciclare
