@@ -1,3 +1,11 @@
+
+Cartella di powertools personali, leggi sotto per comandi di download da remoto,
+usa comando list.sh per la lista dei comandi
+
+
+
+
+
 Su Windows (PowerShell): 
 
   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
