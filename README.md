@@ -10,7 +10,7 @@ iex (iwr -UseBasicParsing https://raw.githubusercontent.com/Ap0pis/toolbox/main/
 
 Su Linux CLI:
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Ap0pis/toolbox/main/setup.sh)"
+bash -c "$(curl -fsSL (https://github.com/Ap0pis/toolbox/blob/main/setup.sh))"
 
 oppure
 
