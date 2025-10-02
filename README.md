@@ -20,4 +20,9 @@ Su Linux CLI:
 
   curl -fsSL https://raw.githubusercontent.com/Ap0pis/toolbox/main/setup.sh | bash 
 
+oppure
+
+  installi git, gh, fai il login e poi cloni dalla github cli con
+  gh repo clone Ap0pis/toolbox
+
 
