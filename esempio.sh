@@ -1,5 +1,7 @@
 #!/bin/bash
-#tentativo di confronto tra stringhe
+# tentativo di confronto tra stringhe
+
+
 echo scrivi ciao
 read string 
 if [[ "$string" == "ciao" ]]; then echo bravo
