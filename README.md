@@ -14,5 +14,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/Ap0pis/toolbox/main/setu
 
 oppure
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Ap0pis/toolbox/main/setup.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/Ap0pis/toolbox/main/setup-toolbox.sh)"
+
 
